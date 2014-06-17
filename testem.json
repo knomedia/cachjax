@@ -1,0 +1,8 @@
+{
+  "framework": "qunit",
+  "src_files": [
+    "bower_components/jquery/dist/jquery.js",
+    "dist/globals/main.js",
+    "test/**/*.spec.js"
+  ]
+}

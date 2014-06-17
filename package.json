@@ -1,0 +1,22 @@
+{
+  "name": "cachjax",
+  "version": "0.0.1",
+  "description": "caching ajax library",
+  "main": "dist/cjs/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "script/test"
+  },
+  "keywords": [
+    "ajax",
+    "cache"
+  ],
+  "author": "jsk <knomedia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli": "^0.12.3",
+    "broccoli-dist-es6-module": "^0.2.0"
+  }
+}
